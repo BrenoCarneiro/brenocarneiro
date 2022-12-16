@@ -1,5 +1,6 @@
 ## &emsp; &emsp; Hello! Welcome to my page 👋
 
+<div>
 
   | Tecnologias que estou trabalhando e estudando no momento: |
   | ------------- |
@@ -8,10 +9,7 @@
   |✔️.NET |
   |✔️C# |
   |✔️SQL |
-  
-<a href="https://github.com/BrenoCarneiro">
-<img width="48%em" src="https://brenocarneiro-stats.vercel.app/api/top-langs/?username=BrenoCarneiro&layout=compact&theme=transparent"/>
-
+  |  <img width="100%" src="https://brenocarneiro-stats.vercel.app/api/top-langs/?username=BrenoCarneiro&layout=compact&theme=transparent"/> |
 
 <div align="left">
 &emsp; &emsp; &emsp; <a href="https://twitter.com/brenofssc" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
