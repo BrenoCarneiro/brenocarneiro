@@ -2,13 +2,13 @@
 
 <div>
 
-  | Tecnologias que estou trabalhando e estudando no momento: |
+  | My skills: |
   | ------------- |
   | ✔️JavaScript |
   | ✔️React  |
-  |✔️.NET |
-  |✔️C# |
-  |✔️SQL |
+  | ✔️.NET |
+  | ✔️C# |
+  | ✔️SQL |
   |  <img width="100%" src="https://brenocarneiro-stats.vercel.app/api/top-langs/?username=BrenoCarneiro&layout=compact&theme=transparent"/> |
 
 <div align="left">
