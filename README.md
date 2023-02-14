@@ -1,11 +1,10 @@
-## &emsp; Hello! Welcome to my page 👋
+## &emsp; Hello! Welcome to my page <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 
 <div>
 
   | My skills: |
   | ------------- |
   | ✔️JavaScript |
-  | ✔️React  |
   | ✔️.NET |
   | ✔️C# |
   | ✔️SQL |
@@ -16,4 +15,6 @@
   <a href="https://www.linkedin.com/in/brenofssc/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 </div>
 
+<br>
 
+  More at [bc.dev.br](https://bc.dev.br)
