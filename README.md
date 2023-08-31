@@ -11,4 +11,4 @@
 
 
 ---
-  More at [bc.dev.br](https://bc.dev.br)
+  More at [https://bcdev-site.azurewebsites.net](https://bcdev-site.azurewebsites.net/)
