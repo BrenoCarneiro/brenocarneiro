@@ -9,4 +9,4 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=BrenoCarneiro&theme=gotham&hide_border=true)<br/>
 
 ---
-  More at [https://bcdev-site.azurewebsites.net](https://bcdev-site.azurewebsites.net/)
+  More at [https://bc.dev.br](https://bc.dev.br)
